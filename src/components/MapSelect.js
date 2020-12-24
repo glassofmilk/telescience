@@ -40,6 +40,7 @@ const MapSelect = props => {
                     <option value="manta">Manta</option>
                     <option value="kondaru">Kondaru</option>
                     <option value="donut2">Donut 2</option>
+                    <option value="donut3">Donut 3</option>
                     <option value="fleet">Bellerophon Fleet</option>
                 </Select>
             </FormControl>
