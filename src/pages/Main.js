@@ -60,6 +60,7 @@ const Main = props => {
         manta: [{ name: 'AI Core', location: [145, 169] }, { name: 'Telescience', location: [169, 128] }],
         kondaru: [{ name: 'AI Core', location: [213, 160] }, { name: 'Telescience', location: [123, 92] }],
         donut2: [{ name: 'AI Core', location: [241, 73] }, { name: 'Telescience', location: [251, 208] }],
+        donut3: [],
         fleet: [{ name: 'AI Core', location: [128, 98] }, { name: 'Telescience', location: [114, 69] }],
     });
     const [zoom, setZoom] = useState(7);
